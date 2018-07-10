@@ -1,0 +1,9 @@
+https://angular.io/tutorial/toh-pt1
+1. Introduction DONE
+2. The Application Shell DONE
+3. The Hero Editor DONE
+4. Displaying a List DONE
+5. Master/Detail Components DONE
+6. Services
+7. Routing
+8. HTTP
