@@ -4,6 +4,6 @@ https://angular.io/tutorial/toh-pt1
 3. The Hero Editor DONE
 4. Displaying a List DONE
 5. Master/Detail Components DONE
-6. Services
+6. Services DONE
 7. Routing
 8. HTTP
